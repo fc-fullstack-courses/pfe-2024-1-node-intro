@@ -1,0 +1,24 @@
+{
+  "name": "pfe-2024-1-node-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fc-fullstack-courses/pfe-2024-1-node-intro.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "math"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fc-fullstack-courses/pfe-2024-1-node-intro/issues"
+  },
+  "homepage": "https://github.com/fc-fullstack-courses/pfe-2024-1-node-intro#readme"
+}
